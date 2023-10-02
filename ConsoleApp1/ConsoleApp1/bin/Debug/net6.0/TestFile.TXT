@@ -1,0 +1,75 @@
+===SYMTAB===
+COPY      0000
+FIRST     0000
+CLOOP     0006
+ENDFIL    001A
+EOF       002D
+RETADR    0030
+LENGTH    0033
+BUFFER    0036
+BUFEND    1036
+MAXLEN    1036
+RDREC     1036
+RLOOP     1040
+EXIT      1056
+INPUT     105C
+WRREC     105D
+WLOOP     1062
+REF       1073
+OUTPUT    1079
+===LOC===
+0   LOC=0000    None
+1   LOC=0000    0x17202D    , pc-relative  , 110010 
+2   LOC=0003    0x69202D    , pc-relative  , 010010 
+3   None
+4   LOC=0006    0x4B101036  , format4      , 110001 
+5   LOC=000A    0x032026    , pc-relative  , 110010 
+6   LOC=000D    0x290000    , pc-relative  , 010010 
+7   LOC=0010    0x332007    , pc-relative  , 110010 
+8   LOC=0013    0x4B10105D  , format4      , 110001 
+9   LOC=0017    0x3F2FEC    , pc-relative  , 110010 
+10  LOC=001A    0x032010    , pc-relative  , 110010 
+11  LOC=001D    0x0F2016    , pc-relative  , 110010 
+12  LOC=0020    0x010003    , pc-relative  , 010010 
+13  LOC=0023    0x0F200D    , pc-relative  , 110010 
+14  LOC=0026    0x4B10105D  , format4      , 110001 
+15  LOC=002A    0x3E2003    , pc-relative  , 100010 
+16  LOC=002D    454F46
+17  LOC=0030    None
+18  LOC=0033    None
+19  LOC=0036    None
+20  LOC=1036    None
+21  LOC=1000    None
+22  command
+23  command
+24  command
+25  LOC=1036    B410        , format2
+26  LOC=1038    B400        , format2
+27  LOC=103A    B440        , format2
+28  LOC=103C    0x75101000  , format4      , 010001 
+29  LOC=1040    0xE32019    , pc-relative  , 110010 
+30  LOC=1043    0x332FFA    , pc-relative  , 110010 
+31  LOC=1046    0xDB2013    , pc-relative  , 110010 
+32  LOC=1049    0xA004        , format2
+33  LOC=104B    0x332008    , pc-relative  , 110010 
+34  LOC=104E    0x57C003    , base-relative , 111100 
+35  LOC=1051    B850        , format2
+36  LOC=1053    0x3B2FEA    , pc-relative  , 110010 
+37  LOC=1056    0x134000    , base-relative , 110100 
+38  LOC=1059    0x4F0000    ,              ,  
+39  LOC=105C    F1
+40  command
+41  command
+42  command
+43  LOC=105D    B410        , format2
+44  LOC=105F    0x774000    , base-relative , 110100 
+45  LOC=1062    0xE32014    , pc-relative  , 110010 
+46  LOC=1065    0x332FFA    , pc-relative  , 110010 
+47  LOC=1068    0x53C003    , base-relative , 111100 
+48  LOC=106B    0xDF200B    , pc-relative  , 110010 
+49  LOC=106E    B850        , format2
+50  LOC=1070    0x3B2FEF    , pc-relative  , 110010 
+51  LOC=1073    0x032FF9    , pc-relative  , 110010 
+52  LOC=1076    0x4F0000    ,              ,  
+53  LOC=1079    05
+54  LOC=107A    None
